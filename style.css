@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.head{
+    text-align: center;
+    margin: 30px auto;
+}
+.border{
+    border: 3px solid black;
+    margin: 20px 200px auto;
+    border-radius: 10px;
+}
+hr{
+    border: 2px solid black;
+    margin: 10px auto;
+    width: 51%;
+}
+li{
+    list-style: none;
+    display: inline;
+    margin: 50px;
+}
+li:hover{
+    color: red;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.nav{
+    display: block;
+    text-align: center;
+}
+.img{
+    display: block;
+    margin: auto;
+    margin: 30px auto;
+    text-align: center;
+}
+img{
+    margin: 0 auto;
+    width: 255px;
+}
+.footer{
+    text-align: center;
+    margin: 30px auto;
+}
